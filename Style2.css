@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap');
+
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Quicksand;
+}
+
+.main{
+    width: 2300px;
+    margin: auto;
+    margin-left:200px;  
+    position: relative;
+}
+
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.column{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+.column .heading{
+    font-family: Quicksand;
+    margin-top: 20px;
+    font-size: 75px;
+}
+
+img.ukuran{
+    margin-top: 100px;
+    width: 650px;
+    height: 500px;
+    margin-right: 10px;
+    object-fit: cover;
+    zoom: normal;
+   border-radius: 98%;
+}
+
+.text-t{
+    font-family: Calibri;
+    font-size: 55px;
+    margin-top: 150px;
+    color:black;
+}
+
+.column a{
+    font-family: Calibri;
+    font-size: 50px;
+    color:black;
+    margin-left: 19px;
+}
+
+.column img{
+    width: 55px;
+    height: 55px;
+}
+
+#contact{
+    background-color: #EFB7B7;
+}
+
+.column .edu{
+    font-family: Quicksand;
+    margin-top: 20px;
+    font-size: 75px;
+    margin-left: 700px;
+}
+
+.text-v{
+    font-family: Calibri;
+    font-size: 45px;
+    text-decoration: aqua;
+    margin-top: 15px;
+    color:black;
+    font-weight: 500;
+    margin-left: 700px;
+}
+
+img.ukuran2{
+    margin-top: 45px;
+    border-radius: 15px;
+}
+
+.text-w{
+    margin-bottom: 180px;
+    margin-right: 90px;
+}
+
+.ex{
+margin-top: 30px;
+font-size: 75px;
+font-weight: 500px;
+}
+
+.point{
+    font-size: 55px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.text-x{
+    font-family: Calibri;
+    font-size: 45px;
+    margin-top: 15px;
+    color:black;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.btn{
+    padding: 20px 20px;
+    font-size: 35px;
+    border: none;
+    margin-left: 10px;
+    background-color: #EFB7B7;
+    border-radius: 10px;
+}
+
+.footer{
+    margin-top: 60px;
+    text-align: center;
+}
+.copy{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+    /* margin-left: 590px; */
+}
